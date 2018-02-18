@@ -2,9 +2,12 @@
   "name": "fizzbuzz-array",
   "version": "1.0.1",
   "description": "Simple fizzbuzz implementation, to learn node, npm, etc.",
-  "main": "fizzbuzz.js",
+  "main": "src/fizzbuzz.js",
   "scripts": {
     "test": "jest"
+  },
+  "engines": {
+    "node" : ">=8.9.4"
   },
   "repository": {
     "type": "git",
@@ -32,5 +35,8 @@
   },
   "jest": {
     "collectCoverage": true
-  }
+  },
+  "files": [
+    "src/"
+  ]
 }

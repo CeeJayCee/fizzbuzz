@@ -1,4 +1,4 @@
-const fizzbuzz = require('../fizzbuzz');
+const fizzbuzz = require('../src/fizzbuzz');
 
 /*-------------------------------------------------------------------------
   Test invalid / valid inputs
