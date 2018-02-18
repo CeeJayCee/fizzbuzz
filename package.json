@@ -4,7 +4,7 @@
   "description": "Simple fizzbuzz implementation, test learn node, npm, etc.",
   "main": "fizzbuzz.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/CeeJayCee/fizzbuzz/issues"
   },
-  "homepage": "https://github.com/CeeJayCee/fizzbuzz#readme"
+  "homepage": "https://github.com/CeeJayCee/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^22.3.0"
+  }
 }
