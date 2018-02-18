@@ -1,7 +1,7 @@
 {
-  "name": "fizzbuzz",
+  "name": "fizzbuzz-array",
   "version": "1.0.0",
-  "description": "Simple fizzbuzz implementation, test learn node, npm, etc.",
+  "description": "Simple fizzbuzz implementation, to learn node, npm, etc.",
   "main": "fizzbuzz.js",
   "scripts": {
     "test": "jest"
@@ -17,7 +17,8 @@
     "Test",
     "Node",
     "NPM",
-    "Learning"
+    "Learning",
+    "Arrays"
   ],
   "author": "Chris Conway <chris@ceejaycee.net>",
   "license": "GPL-3.0",
