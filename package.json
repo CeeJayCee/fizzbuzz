@@ -27,5 +27,8 @@
   "homepage": "https://github.com/CeeJayCee/fizzbuzz#readme",
   "devDependencies": {
     "jest": "^22.3.0"
+  },
+  "jest": {
+    "collectCoverage": true
   }
 }
